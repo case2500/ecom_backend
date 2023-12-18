@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "64c85f454f1fe4481206e930"
+  },
+  "name": "case",
+  "email": "a@hotmail.com",
+  "password": "$2a$10$LAheYE07FnjWqiPKRH8h8.xV3lVPIUEJ.PoZdOkIEeU1jFYA.yj9i",
+  "role": "admin",
+  "__v": 0,
+  "bio": "520 ถ.มิตรภาพ อ.เมือง จ.นครราชสีมา\n30000",
+  "phone": "0925914655"
+},
+{
+  "_id": {
+    "$oid": "64d59b4a4fef12250029affd"
+  },
+  "name": "som",
+  "email": "som@hotmail.com",
+  "password": "$2a$10$8BC/glUyuJu6tiOpGXqN1.hnHcQ6pa97sPv4C.sQkFzFYjaJrUSLe",
+  "role": "user",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e20cef055df1ec83a65199"
+  },
+  "name": "case",
+  "email": "123@hotmail.com",
+  "password": "$2a$10$UzQI3iEVHS3.JBsQZnlNZuM8.1Mj9SNclGGdXmdJg.zA8iNWQ0Yay",
+  "createdAt": {
+    "$date": "2023-08-20T12:54:07.152Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T12:54:07.152Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e20dce055df1ec83a651a2"
+  },
+  "name": "case",
+  "email": "a1@hotmail.com",
+  "password": "$2a$10$HfKElrjVI2dK1i6G9gh/1Ow1HjRMF5fznI9iwy0slPF.RZeivz40m",
+  "createdAt": {
+    "$date": "2023-08-20T12:57:50.410Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T12:57:50.410Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64e20f4b09fcc45832ae0066"
+  },
+  "name": "chunvun",
+  "email": "aa@hotmail.com",
+  "password": "$2a$10$oM4UEEr6O5x3581MXJOvxOi11T6ZhmmJpiH6/SdCchNBkH10aCQ.u",
+  "createdAt": {
+    "$date": "2023-08-20T13:04:12.006Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-20T13:04:12.006Z"
+  },
+  "__v": 0
+}]
