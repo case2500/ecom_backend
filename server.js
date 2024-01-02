@@ -38,10 +38,7 @@ app.use("/api", userrouter);
 app.use("/api/company",companyRouter)
 app.use("/api/autonumber",autonumberRouter)
 app.use("/api/images", imagerouter);
-app.user("/",(req,res)=>{
- res.json({
-   msg: "render test"
-         )})
+
 //getHello
 
 mongoose.connect(process.env.MONGODB_URI)
